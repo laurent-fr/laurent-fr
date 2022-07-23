@@ -2,7 +2,7 @@
 - 👀 I’m interested in retro computers
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on ... (I leave this one blank for now !)
-- 📫 How to reach me on Twitter @_Laurent_Fr_
+- 📫 How to reach me on Twitter ``` @_Laurent_Fr_ ```
 
 <!---
 laurent-fr/laurent-fr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
